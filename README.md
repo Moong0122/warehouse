@@ -5,7 +5,7 @@
 이미지 및 코드 출처 : https://youtu.be/TawH-AqHTXc
 
 결과물
-![gif](1st/result.gif)
+![gif](1st/movie.gif)
 
 무엇을 배웠는가?
 
